@@ -16,7 +16,7 @@ const App: React.FC = () => {
       
       <footer className="py-12 bg-black text-center text-slate-600 text-sm border-t border-slate-900">
         <p>A Matemática do Cassino &copy; {new Date().getFullYear()}</p>
-        <p className="mt-2">Lembre-se: O jogo deve ser apenas entretenimento. A casa sempre vence.</p>
+        <p className="mt-2">Lembre-se: A casa sempre vence.</p>
       </footer>
     </main>
   );
